@@ -19,6 +19,6 @@ public class LiskovRun{
 		
 //		int lengs= s.split(" ");
 //		System.out.println((lengs));
-		Arrays.copyOf
+		
 	}
 }
